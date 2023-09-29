@@ -13,3 +13,8 @@ astropy     # pip install astropy
 gnsscal     # pip install gnsscal
 unlzw3      # pip install unlzw3
 wget        # pip install wget
+
+
+If you use this package on GitHub, please cite this paper as a reference:
+
+Adavi, Z., Weber, R. & Rohm, W. Pre-analysis of GNSS tomography solution using the concept of spread of model resolution matrix. J Geod 96, 27 (2022). https://doi.org/10.1007/s00190-022-01620-1
