@@ -5,9 +5,9 @@ All required inputs shown in 'input_data.py', can be changed to the desired ones
 You can use all of the subroutines individually, but to calculate the SWD SINEX file, a sample 'Main_program.py' can be run to see how it will work.
 
 
----------------Requirements-------------
+---------------#Requirements-------------
 
-pandas      # pip install pandas
+/pandas      # pip install pandas
 
 numpy       # pip install numpy
 
