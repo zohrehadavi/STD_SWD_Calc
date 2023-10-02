@@ -8,12 +8,19 @@ You can use all of the subroutines individually, but to calculate the SWD SINEX 
 ---------------Requirements-------------
 
 pandas      # pip install pandas
+
 numpy       # pip install numpy
+
 pyproj      # pip install pyproj
+
 astropy     # pip install astropy
+
 gnsscal     # pip install gnsscal
+
 unlzw3      # pip install unlzw3
+
 wget        # pip install wget
+
 
 
 If you use this package on GitHub, please cite this paper as a reference:
