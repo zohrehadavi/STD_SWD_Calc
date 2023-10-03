@@ -25,6 +25,7 @@ wget        # pip install wget
 
 CDDIS provides the orbit file for download. Make an account there (https://urs.earthdata.nasa.gov/) if you don't have one and enter your registered email address in the 'email' field in the inputs part.
 
+
 Sat_cons=['G','R'] -> Satellite constellation  Sat_cons=['G','R','E'],...
 
 
