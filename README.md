@@ -29,6 +29,12 @@ CDDIS provides the orbit file for download. Make an account there (https://urs.e
 Sat_cons=['G','R'] -> Satellite constellation  Sat_cons=['G','R','E'],...
 
 
+Type_data_source='notmgex'   #If you want to use produced data from mgex please select Type_data_source='MGEX'
+
+
+Type_orb='Ultra'            # or ---->Type_orb='Final'
+
+
 
 If you use this package on GitHub, please cite this paper as a reference:
 
