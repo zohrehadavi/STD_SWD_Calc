@@ -21,10 +21,9 @@ unlzw3      # pip install unlzw3
 
 wget        # pip install wget
 
-
 # Notes:
 CDDIS provides the orbit file for download. Make an account there (https://urs.earthdata.nasa.gov/) if you don't have one and enter your registered email address in the 'email' field in the inputs part.
-Sat_cons=['G','R'] % Satellite constellation  Sat_cons=['G','R','E'],...
+Sat_cons=['G','R']  Satellite constellation  Sat_cons=['G','R','E'],...
 
 If you use this package on GitHub, please cite this paper as a reference:
 
