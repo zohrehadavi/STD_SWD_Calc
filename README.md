@@ -35,6 +35,9 @@ Type_data_source='notmgex'   #If you want to use produced data from mgex please 
 Type_orb='Ultra'            # or ---->Type_orb='Final'
 
 
+The most updated Python scripts for the VMF can be found here:
+https://vmf.geo.tuwien.ac.at/codes/Python_Tools_Adavi/
+
 # Credit:
 If you use this package on GitHub, please cite following references:
 
