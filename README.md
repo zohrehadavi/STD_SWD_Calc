@@ -41,7 +41,7 @@ https://vmf.geo.tuwien.ac.at/codes/Python_Tools_Adavi/
 # Credit:
 If you use this package on GitHub, please cite following references:
 
-Adavi, Z., Weber, R. & Rohm, W. Pre-analysis of GNSS tomography solution using the concept of spread of model resolution matrix. J Geod 96, 27 (2022). https://doi.org/10.1007/s00190-022-01620-1
+- Adavi, Z., Weber, R. & Rohm, W. Pre-analysis of GNSS tomography solution using the concept of spread of model resolution matrix. J Geod 96, 27 (2022). https://doi.org/10.1007/s00190-022-01620-1
 
 
-Zohreh Adavi. (2023). Calculation GNSS STD, SWD, and ZTD. https://doi.org/10.5281/zenodo.8405850
+- Zohreh Adavi. (2023). Calculation GNSS STD, SWD, and ZTD. https://doi.org/10.5281/zenodo.8405850
