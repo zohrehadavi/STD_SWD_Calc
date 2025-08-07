@@ -1,7 +1,8 @@
 # STD_SWD_Calc
 Python package for creating GNSS STD/SWD/ZTD as well as modelled (GPT/VMF) ZTD
 Install all required packages indicated in the requirements.
-All required inputs shown in 'input_data.py', can be changed to the desired ones
+All required inputs shown in 'input_data.py', can be changed to the desired ones.
+
 You can use all of the subroutines individually, but to calculate the SWD SINEX file, a sample 'Main_program.py' can be run to see how it will work.
 
 
